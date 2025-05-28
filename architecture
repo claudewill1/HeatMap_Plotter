@@ -1,0 +1,14 @@
+server/
+├── app/
+│   ├── __init__.py
+│   ├── main.py               # FastAPI app, routes only
+│   ├── routes.py             # Endpoint definitions
+│   ├── services/
+│   │   ├── __init__.py
+│   │   ├── file_service.py   # File saving, parsing logic
+│   │   ├── plot_service.py   # Plot generation logic
+│   │   └── utils.py          # Utility helpers like base64 encoding
+└── requirements.txt
+
+│
+└── README.md
