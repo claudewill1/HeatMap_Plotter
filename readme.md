@@ -154,6 +154,7 @@ When a file is uploaded, the user will see a plot like this:
 📃 License
 
 This project is open-source and free to use for educational and research purposes.
+
 📸 Interface Preview (Text Concept)
 
 +----------------------------------------+
